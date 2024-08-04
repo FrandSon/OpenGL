@@ -1,0 +1,24 @@
+# Blender 4.2.0 MTL File: 'None'
+# www.blender.org
+
+newmtl Body
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Body_baseColor.png
+map_Ke Body_emissive.png
+map_Bump -bm 1.000000 Body_normal.png
+
+newmtl Clothing
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Clothing_baseColor.png
+map_Ke Clothing_emissive.png
+map_Bump -bm 1.000000 Clothing_normal.png
